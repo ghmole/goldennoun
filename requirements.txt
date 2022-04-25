@@ -48,6 +48,7 @@ requests-cache==0.9.3
 simplejson==3.17.6
 six==1.16.0
 soupsieve==2.3.2.post1
+stockstats==0.4.1
 tabulate==0.8.9
 tqdm==4.64.0
 url-normalize==1.4.3
